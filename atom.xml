@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Cleo Ceg blog.]]></title>
   <link href="http://cleoceg.github.io/atom.xml" rel="self"/>
   <link href="http://cleoceg.github.io/"/>
-  <updated>2013-06-15T21:42:42+02:00</updated>
+  <updated>2013-06-16T17:28:21+02:00</updated>
   <id>http://cleoceg.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Cleo Ceggrers]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://cleoceg.github.io/blog/2013/06/16/first-post/"/>
+    <updated>2013-06-16T17:21:00+02:00</updated>
+    <id>http://cleoceg.github.io/blog/2013/06/16/first-post</id>
+    <content type="html"><![CDATA[<h1>my first post from my first blog</h1>
+
+<blockquote><p>2013 June 16</p></blockquote>
+
+<p>welcome to &hellip; me</p>
+
+<h2>it&rsquo;s never too late</h2>
+
+<p>Indeed it&rsquo;s never too late to start something even it&rsquo;s the hard way. In fact I&rsquo;ve just finished to read a book recently about how to better <a href="http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning">learning and thinking</a> (you know what I mean!) Well, a lot of stuff to be done but somewhere a sort of excitment of a kid in front of a Meccano (for who likes this)</p>
+
+<h2>follow the tips</h2>
+
+<p>Yes there&rsquo;s a full of useful tips to follow in this book but to begin I retain only few ones (those which are tools-oriented). First subscribe to on open source project, second read deliberately using <code>mind map</code> and <code>wiki</code>, third make your <code>blog</code>.</p>
+
+<h2>time to work</h2>
+
+<p>And now with all these pieces of how-to-learn-and-think it&#8217;time to start in exploration and come back soon to expose some feeling and feedback</p>
+]]></content>
+  </entry>
   
 </feed>
